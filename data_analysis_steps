@@ -1,0 +1,7 @@
+1) Data Collection
+    1) Import or load Data form of excel,csv,text format form any source
+2) Data Preparation
+    1) cleaning the data to remove unwanted and redundant values
+    2) converting it into the right format - Data Transformation
+3) Data Exploration
+    
